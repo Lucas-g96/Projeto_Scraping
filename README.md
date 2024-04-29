@@ -15,7 +15,7 @@ Para usar este código, siga as etapas abaixo:
 
 - 1 Clone o repositório:
 
-    git clone https://seu-repositorio.git
+    git clone https://github.com/Lucas-g96/Projeto_Scraping.git
 
 - 2 Navegue até o diretório do projeto:
 
