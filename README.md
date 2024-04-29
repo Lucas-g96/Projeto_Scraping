@@ -21,7 +21,7 @@ Para usar este código, siga as etapas abaixo:
 
 - 3 Execute o script Python:
 
-    python coletor_downdetector.py
+    python __init__.py
 
 ## Dependências
 - pandas
@@ -34,5 +34,3 @@ O script irá coletar os dados do site Downdetector e exibi-los no console, alé
 
 ## Contribuição
 Este projeto é uma demonstração simples de coleta de dados web e pode ser expandido para incluir mais funcionalidades ou ser adaptado para outras páginas da web. Sinta-se à vontade para contribuir com melhorias ou reportar problemas abrindo uma issue no repositório.
-
-Você pode ajustar o conteúdo conforme necessário para incluir mais detalhes sobre o projeto ou personalizar de acordo com as instruções do seu professor.
