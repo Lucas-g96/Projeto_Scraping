@@ -3,9 +3,7 @@
 ## Este é um projeto para coletar dados do site Downdetector usando Selenium e BeautifulSoup em Python.
 
 ## Instalação
-Para executar este código, você precisa ter Python instalado em seu ambiente. Além disso, você pode instalar as dependências necessárias utilizando o gerenciador de pacotes pip e o arquivo requirements.txt fornecido:
-
-pip install -r requirements.txt
+Para executar este código, você precisa ter Python instalado em seu ambiente. Além disso, você pode instalar as dependências necessárias utilizando o gerenciador de pacotes pip
 
 Certifique-se também de ter o Chrome WebDriver instalado. Caso contrário, o código irá instalar automaticamente o Chrome WebDriver para você.
 
